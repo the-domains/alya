@@ -1,7 +1,7 @@
 name: Alya
 favicon: null
-layout_spectrum: 0.64085318823345
-typography_spectrum: 0.457348495721817
+layout_spectrum: 0.23429
+typography_spectrum: 0.50674
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#040e05'
-    - '#f4eae8'
-    - '#7f594d'
-    - '#c5caa5'
-    - '#9a9d75'
-  brandStrength: 0.9520659651607275
-  lightness: 0.7114476158749312
-  saturation: 0.5438731897156686
-  rhythmicContrast: 0.15413106582127512
+    - '#3b5860'
+    - '#c69960'
+    - '#ebdc7d'
+    - '#75766e'
+    - '#f9f9d3'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
